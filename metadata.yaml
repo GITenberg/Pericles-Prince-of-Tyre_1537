@@ -1,0 +1,35 @@
+_repo: Pericles-Prince-of-Tyre_1537
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: Perhaps one of Shakespeare's most adventure-filled plays, ""Pericles""
+  follows the extended sailing journeys of a young prince. Pericles is forced to flee
+  Antioch when he correctly guesses a riddle that reveals the incestuous activity
+  of King Antiochus. Unable to stay at home in Tyre because of Antiochus' vengeance,
+  he sails away and ends up shipwrecked in Pentapolis, where he fights for and wins
+  a princess named Thaisa. The trials and tribulations of this couple and their daughter
+  Marina fill the remaining acts of ""Pericles"" with grief and trepidation, as well
+  as joy and a.
+gutenberg_issued: '1998-11-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '1537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragicomedy'
+- !lcsh 'Princes -- Lebanon -- Tyre -- Drama'
+- !lcc 'PR'
+- !lcsh 'Tyre (Lebanon) -- Drama'
+title: Pericles, Prince of Tyre
+url: http://www.gutenberg.org/ebooks/1537
