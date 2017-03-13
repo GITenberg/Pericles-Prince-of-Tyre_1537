@@ -1,5 +1,8 @@
 _repo: Pericles-Prince-of-Tyre_1537
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Shakespeare, William
@@ -19,6 +22,8 @@ description: Perhaps one of Shakespeare's most adventure-filled plays, ""Pericle
   a princess named Thaisa. The trials and tribulations of this couple and their daughter
   Marina fill the remaining acts of ""Pericles"" with grief and trepidation, as well
   as joy and a.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/1537#Pericles-Prince-of-Tyre
 gutenberg_issued: '1998-11-01'
 gutenberg_type: Text
 identifiers:
