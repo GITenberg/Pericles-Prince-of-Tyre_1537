@@ -1,5 +1,5 @@
 _repo: Pericles-Prince-of-Tyre_1537
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -37,5 +37,6 @@ subjects:
 - !lcsh 'Princes -- Lebanon -- Tyre -- Drama'
 - !lcc 'PR'
 - !lcsh 'Tyre (Lebanon) -- Drama'
+- GITenberg
 title: Pericles, Prince of Tyre
 url: http://www.gutenberg.org/ebooks/1537
